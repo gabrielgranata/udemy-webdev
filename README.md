@@ -8,6 +8,7 @@ ___
   <li> <strong>Todo List</strong> - Practice on jQuery element selectors to create a simple todo list application </li>
   <li> <strong>Patapap Clone Project</strong> - Practice using different libraries and npm packages, along with jQuery selectors to create a basic clone of www.patatap.com</li>
   <li> <strong>RESTful Blog App</strong> - Practice the different RESTful routes using express for routing </li>
+  <li> <strong>Museum of Candy Project</strong> - A front end design site to practice using Bootstrap 4 utilities and tools </li>
 </ol>
 <br>
 <h4>Live versions of these small projects are currently unavailable</h4>
